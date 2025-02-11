@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "user": "Luis Henao",
+    "fecha": "21/11/2024 - 20:7",
+    "perfil": "https://randomuser.me/api/portraits/men/2.jpg",
+    "pregunta": "Cuanto es 10+10?",
+    "respuestas": [
+      {
+        "id": "1",
+        "fecha": "21/11/2024 - 20:7",
+        "user": "Luis Daniel",
+        "respuesta": 20,
+        "perfil": "https://randomuser.me/api/portraits/men/3.jpg"
+      },
+      {
+        "id": "2",
+        "fecha": "21/11/2024 - 20:13",
+        "user": "Jair Correa",
+        "respuesta": "15",
+        "perfil": "https://randomuser.me/api/portraits/men/3.jpg"
+      },
+      {
+        "id": "2",
+        "fecha": "23/11/2024 - 11:2",
+        "user": "Luis Henao",
+        "respuesta": "20",
+        "perfil": "https://randomuser.me/api/portraits/men/2.jpg"
+      }
+    ]
+  }
+]
